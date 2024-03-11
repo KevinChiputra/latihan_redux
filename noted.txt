@@ -1,0 +1,2 @@
+1. Jelasin cara install redux
+2. Jelasin state  redux
